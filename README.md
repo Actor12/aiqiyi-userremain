@@ -8,5 +8,5 @@ datafountain: https://www.datafountain.cn/competitions/551
 
 本次比赛主要采用了lightGBM和自建的gru两种模型训练，结果做投票融合；
 
-提分点：特征衍生、nullimportance特征筛选法、调整网络参数和结构、finetuning、伪标签、vote融合。
+提分点：特征衍生、nullimportance特征筛选法、调整网络参数和结构、finetuning、交叉验证、伪标签、vote融合。
 
