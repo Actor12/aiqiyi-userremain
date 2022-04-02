@@ -1,4 +1,4 @@
-# aiqiyi_user_remain
+# 2021爱奇艺用户存留预测
 
 竞赛网址：  
 官方：http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6  
