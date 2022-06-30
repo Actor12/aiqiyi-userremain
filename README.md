@@ -3,6 +3,7 @@
 竞赛网址：  
 官方：http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6  
 datafountain: https://www.datafountain.cn/competitions/551  
+博客比赛总结：https://blog.csdn.net/weixin_45526335/article/details/122732559#comments_21278048
 
 最终成绩：A榜11/991  B榜19/991
 
